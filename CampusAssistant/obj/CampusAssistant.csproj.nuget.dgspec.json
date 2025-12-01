@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nishidafuta/Campus Assistant/CampusAssistant/CampusAssistant.csproj": {}
+    "/Users/nishidafuta/Campus-Assistant/CampusAssistant/CampusAssistant.csproj": {}
   },
   "projects": {
-    "/Users/nishidafuta/Campus Assistant/CampusAssistant/CampusAssistant.csproj": {
+    "/Users/nishidafuta/Campus-Assistant/CampusAssistant/CampusAssistant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nishidafuta/Campus Assistant/CampusAssistant/CampusAssistant.csproj",
+        "projectUniqueName": "/Users/nishidafuta/Campus-Assistant/CampusAssistant/CampusAssistant.csproj",
         "projectName": "CampusAssistant",
-        "projectPath": "/Users/nishidafuta/Campus Assistant/CampusAssistant/CampusAssistant.csproj",
+        "projectPath": "/Users/nishidafuta/Campus-Assistant/CampusAssistant/CampusAssistant.csproj",
         "packagesPath": "/Users/nishidafuta/.nuget/packages/",
-        "outputPath": "/Users/nishidafuta/Campus Assistant/CampusAssistant/obj/",
+        "outputPath": "/Users/nishidafuta/Campus-Assistant/CampusAssistant/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nishidafuta/.nuget/NuGet/NuGet.Config"

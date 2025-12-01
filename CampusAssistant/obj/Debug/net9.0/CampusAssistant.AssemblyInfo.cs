@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CampusAssistant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c31efb5c304f7fb3db275f16556384bc561fdd9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beb8c9cd1dcd6a9d0ab0c53801a05f5d771d7071")]
 [assembly: System.Reflection.AssemblyProductAttribute("CampusAssistant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CampusAssistant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
