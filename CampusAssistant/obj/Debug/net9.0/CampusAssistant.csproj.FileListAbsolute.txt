@@ -1,0 +1,15 @@
+/Users/nishidafuta/Campus Assistant/CampusAssistant/bin/Debug/net9.0/CampusAssistant
+/Users/nishidafuta/Campus Assistant/CampusAssistant/bin/Debug/net9.0/CampusAssistant.deps.json
+/Users/nishidafuta/Campus Assistant/CampusAssistant/bin/Debug/net9.0/CampusAssistant.runtimeconfig.json
+/Users/nishidafuta/Campus Assistant/CampusAssistant/bin/Debug/net9.0/CampusAssistant.dll
+/Users/nishidafuta/Campus Assistant/CampusAssistant/bin/Debug/net9.0/CampusAssistant.pdb
+/Users/nishidafuta/Campus Assistant/CampusAssistant/obj/Debug/net9.0/CampusAssistant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nishidafuta/Campus Assistant/CampusAssistant/obj/Debug/net9.0/CampusAssistant.AssemblyInfoInputs.cache
+/Users/nishidafuta/Campus Assistant/CampusAssistant/obj/Debug/net9.0/CampusAssistant.AssemblyInfo.cs
+/Users/nishidafuta/Campus Assistant/CampusAssistant/obj/Debug/net9.0/CampusAssistant.csproj.CoreCompileInputs.cache
+/Users/nishidafuta/Campus Assistant/CampusAssistant/obj/Debug/net9.0/CampusAssistant.sourcelink.json
+/Users/nishidafuta/Campus Assistant/CampusAssistant/obj/Debug/net9.0/CampusAssistant.dll
+/Users/nishidafuta/Campus Assistant/CampusAssistant/obj/Debug/net9.0/refint/CampusAssistant.dll
+/Users/nishidafuta/Campus Assistant/CampusAssistant/obj/Debug/net9.0/CampusAssistant.pdb
+/Users/nishidafuta/Campus Assistant/CampusAssistant/obj/Debug/net9.0/CampusAssistant.genruntimeconfig.cache
+/Users/nishidafuta/Campus Assistant/CampusAssistant/obj/Debug/net9.0/ref/CampusAssistant.dll
