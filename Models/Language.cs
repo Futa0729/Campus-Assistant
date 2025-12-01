@@ -1,4 +1,4 @@
-namespace MultiLanguageCampusAssistant.Models
+namespace CampusAssistant.Models
 {
     public enum Language
     {
